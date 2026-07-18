@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# Python Cache
+.pytest_cache/
+.mypy_cache/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# TensorFlow Checkpoints
+checkpoints/
+*.ckpt
+*.index
+*.data-00000-of-00001
+
+# Model Weights
+*.h5
+*.keras
+
+# Saved Models
+saved_model/
+models/
+
+# Temporary Files
+*.tmp
+*.bak
+
+# Dataset Downloads
+mitbih_data/
+esc50/
+ESC-50-master/
