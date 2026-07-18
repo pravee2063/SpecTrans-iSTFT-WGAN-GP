@@ -1,0 +1,16 @@
+# Core Scientific Computing
+numpy>=1.26
+pandas>=2.2
+scipy>=1.13
+matplotlib>=3.9
+
+# Biomedical Signal Processing
+wfdb>=4.1
+
+# Machine Learning
+scikit-learn>=1.5
+
+# Deep Learning
+tensorflow>=2.16
+
+# Utility
