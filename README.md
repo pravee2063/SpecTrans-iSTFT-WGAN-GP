@@ -252,6 +252,8 @@ This project was developed as part of the **M.Tech Computer Science (AI & ML)** 
 
 # License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **Creative Commons Zero v1.0 Universal (CC0 1.0)** License.
 
-See the `LICENSE` file for more details.
+The CC0 1.0 license dedicates this work to the public domain to the fullest extent permitted by law. You are free to copy, modify, distribute, and use this project for any purpose, including commercial applications, without asking for permission or providing attribution.
+
+For the full license text, see the [`LICENSE`](LICENSE) file.
